@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "119110083135",
+    "firebase_url": "https://schooltest-af.firebaseio.com",
+    "project_id": "schooltest-af",
+    "storage_bucket": "schooltest-af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119110083135:android:90eef4ef9d30a928",
+        "android_client_info": {
+          "package_name": "com.example.schooltest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119110083135-5tmp440b3k85l10uuqmu2ln7ov5nnpvi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsJqOWHypbAs3FTsmekSPxI1wKzjSskrM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
